@@ -28,7 +28,6 @@ struct Victor {
         "Double degree @ ENSTA Bretagne - Computing Systems Design"
     };
     const char *os        = "Linux (and vim, obviously)";
-    const char *languages = "PT (native) | EN (B2) | FR (B2)";
 };
 ```
 
