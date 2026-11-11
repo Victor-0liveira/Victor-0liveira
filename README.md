@@ -38,24 +38,35 @@ struct Victor {
 
 Languages
 
-<p> <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00B4D8" /> </p>
+<p> <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Haskell-0D1117?style=for-the-badge&logo=haskell&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Assembly-0D1117?style=for-the-badge&logo=assemblyscript&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00B4D8" /> </p>
+
+Front-end & mobile
+
+<p> <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Expo-0D1117?style=for-the-badge&logo=expo&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/MUI-0D1117?style=for-the-badge&logo=mui&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Styled%20Components-0D1117?style=for-the-badge&logo=styledcomponents&logoColor=00B4D8" /> </p>
 
 Back-end & APIs
 
-<p> <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Insomnia-0D1117?style=for-the-badge&logo=insomnia&logoColor=00B4D8" /> </p>
+<p> <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Django%20REST-0D1117?style=for-the-badge&logo=django&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Celery-0D1117?style=for-the-badge&logo=celery&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Swagger-0D1117?style=for-the-badge&logo=swagger&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Zod-0D1117?style=for-the-badge&logo=zod&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Insomnia-0D1117?style=for-the-badge&logo=insomnia&logoColor=00B4D8" /> </p>
+
+Databases
+
+<p> <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=00B4D8" /> </p>
+
+Testing
+
+<p> <img src="https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Pytest-0D1117?style=for-the-badge&logo=pytest&logoColor=00B4D8" /> </p>
 
 DevOps & tools
 
-<p> <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Vim-0D1117?style=for-the-badge&logo=vim&logoColor=00B4D8" /> </p>
+<p> <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Vim-0D1117?style=for-the-badge&logo=vim&logoColor=00B4D8" /> </p>
 
 Networks
 
-<p> <img src="https://img.shields.io/badge/5G%20Networks-0D1117?style=for-the-badge&logo=5g&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Edge%20Computing-0D1117?style=for-the-badge&logo=cloudflare&logoColor=00B4D8" /> </p>
+<p> <img src="https://img.shields.io/badge/Sockets%20TCP%2FUDP-0D1117?style=for-the-badge&logo=cloudflare&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/5G%20Networks-0D1117?style=for-the-badge&logo=5g&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Edge%20Computing-0D1117?style=for-the-badge&logo=cloudflare&logoColor=00B4D8" /> </p>
 
 Ways of working
 
 <p> <img src="https://img.shields.io/badge/Scrum-0D1117?style=for-the-badge&logo=scrumalliance&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Kanban-0D1117?style=for-the-badge&logo=trello&logoColor=00B4D8" /> </p>
-
 ---
 
 ### 📊 GitHub stats
