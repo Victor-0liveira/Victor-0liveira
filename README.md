@@ -34,7 +34,7 @@ struct Victor {
 
 - 🎓 Brazilian Computer Engineering student at **CIn – UFPE**, currently on a **double degree at ENSTA Bretagne** (Brest), specializing in **Computing Systems Design**.
 - 🔬 Working on an **AI + 3D medical imaging** research project with a French university hospital.
-- 📡 Former research fellow on **private 5G networks & edge computing for telemedicine** at UFPE.
+- 📡 Former Undergraduate Research Assistant on **private 5G networks & edge computing for telemedicine** at UFPE.
 - 💼 Spent a year at **CITi** (UFPE's tech junior enterprise) as a **Full Stack Developer**, then **Software Analyst** and **Technical Advisor**.
 - 👨‍🏫 Former **teaching assistant** in *Computer Organization & Architecture* and *Discrete Mathematics*.
 - 🐧 Linux enthusiast: I like tweaking my setup, writing small tools and living in the terminal.
