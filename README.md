@@ -36,42 +36,25 @@ struct Victor {
 
 ### 🛠️ Tech stack
 
-**Low level & hardware**
+Languages
 
-<p>
-  <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00B4D8" />
-  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00B4D8" />
-  <img src="https://img.shields.io/badge/Verilog-0D1117?style=for-the-badge&logo=v&logoColor=00B4D8" />
-  <img src="https://img.shields.io/badge/FPGA-0D1117?style=for-the-badge&logo=intel&logoColor=00B4D8" />
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00B4D8" />
-  <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00B4D8" />
-  <img src="https://img.shields.io/badge/Vim-0D1117?style=for-the-badge&logo=vim&logoColor=00B4D8" />
-</p>
+<p> <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00B4D8" /> </p>
 
-**Back-end & DevOps**
+Back-end & APIs
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00B4D8" />
-  <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=00B4D8" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00B4D8" />
-  <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=00B4D8" />
-  <img src="https://img.shields.io/badge/Insomnia-0D1117?style=for-the-badge&logo=insomnia&logoColor=00B4D8" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00B4D8" />
-</p>
+<p> <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Insomnia-0D1117?style=for-the-badge&logo=insomnia&logoColor=00B4D8" /> </p>
 
-**AI & research**
+DevOps & tools
 
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=00B4D8" />
-  <img src="https://img.shields.io/badge/5G%20%26%20Edge-0D1117?style=for-the-badge&logo=5g&logoColor=00B4D8" />
-</p>
+<p> <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Vim-0D1117?style=for-the-badge&logo=vim&logoColor=00B4D8" /> </p>
 
-**Ways of working**
+Networks
 
-<p>
-  <img src="https://img.shields.io/badge/Scrum-0D1117?style=for-the-badge&logo=scrumalliance&logoColor=00B4D8" />
-  <img src="https://img.shields.io/badge/Kanban-0D1117?style=for-the-badge&logo=trello&logoColor=00B4D8" />
-</p>
+<p> <img src="https://img.shields.io/badge/5G%20Networks-0D1117?style=for-the-badge&logo=5g&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Edge%20Computing-0D1117?style=for-the-badge&logo=cloudflare&logoColor=00B4D8" /> </p>
+
+Ways of working
+
+<p> <img src="https://img.shields.io/badge/Scrum-0D1117?style=for-the-badge&logo=scrumalliance&logoColor=00B4D8" /> <img src="https://img.shields.io/badge/Kanban-0D1117?style=for-the-badge&logo=trello&logoColor=00B4D8" /> </p>
 
 ---
 
