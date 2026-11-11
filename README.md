@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Bonjour!+Hi!+%F0%9F%91%8B;Full+Stack+Software+Engineer;From+Recife+%F0%9F%87%A7%F0%9F%87%B7+to+Brest+%F0%9F%87%AB%F0%9F%87%B7;Back-end+%7C+APIs+%7C+Docker+%7C+Linux" alt="Typing SVG" />
   </a>
 </p>
----
+
 
 ### 🧑‍💻 About me
 
