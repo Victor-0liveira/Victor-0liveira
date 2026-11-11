@@ -29,7 +29,7 @@ struct Victor {
 - 💼 Spent a year at **CITi** (UFPE's tech junior enterprise) as a **Full Stack Developer**, then **Software Analyst** and **Technical Advisor**.
 - 👨‍🏫 Former **teaching assistant** in *Computer Organization & Architecture* and *Discrete Mathematics*.
 - 🐧 Linux enthusiast: I like tweaking my setup, writing small tools and living in the terminal.
-- 🌱 Currently diving deeper into **C/C++, Verilog and FPGAs**.
+- 🌱 Currently keeping up with the latest in AI and exploring how to bring it into real-world software.
 - 🔭 **Open to a 3-month internship in Europe** (May → September 2027): embedded systems, digital design, systems programming or back-end.
 
 ---
