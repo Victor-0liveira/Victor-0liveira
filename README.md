@@ -21,8 +21,8 @@
 
 ```c
 struct Victor {
-    const char *origin    = "Recife, Brazil 🇧🇷";
-    const char *now       = "Brest, France 🇫🇷";
+    const char *origin    = "Brazil 🇧🇷";
+    const char *now       = "France 🇫🇷";
     const char *studies[] = {
         "Computer Engineering @ Centro de Informática - UFPE",
         "Double degree @ ENSTA Bretagne - Computing Systems Design"
