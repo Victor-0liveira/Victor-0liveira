@@ -42,14 +42,7 @@ struct Victor {
 
 ### 📊 GitHub stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Victor-0liveira&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-0liveira&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Victor-0liveira&theme=tokyonight&hide_border=true" />
-</p>
+<p align="center"> <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Victor-0liveira&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /> <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Victor-0liveira&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Victor-0liveira&theme=tokyonight&hide_border=true" /> </p>
 
 ---
 
