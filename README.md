@@ -97,14 +97,6 @@ struct Victor {
 
 ---
 
-### 🌍 Languages
-
-| 🇧🇷 Portuguese | 🇬🇧 English | 🇫🇷 French |
-|:---:|:---:|:---:|
-| Native | B2 · Cambridge FCE | B2 · TCF |
-
----
-
 ### 📫 Let's connect
 
 <p>
