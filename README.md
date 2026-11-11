@@ -1,5 +1,12 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:00B4D8&height=200&section=header&text=Victor%20Oliveira&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/> </p> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Bonjour!+Hi!+%F0%9F%91%8B;Software+Engineer+%26+Full+Stack+Developer;From+Recife+%F0%9F%87%A7%F0%9F%87%B7+to+Brest+%F0%9F%87%AB%F0%9F%87%B7;Back-end+%7C+APIs+%7C+Docker+%7C+Linux" alt="Typing SVG" /> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Victor-0liveira&color=1F6FEB&style=flat&label=profile+views" /> <img src="https://img.shields.io/github/followers/Victor-0liveira?label=followers&style=flat&color=00B4D8" /> <img src="https://img.shields.io/badge/status-learning%20every%20day-success?style=flat" /> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:00B4D8&height=200&section=header&text=Victor%20Oliveira&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+</p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Bonjour!+Hi!+%F0%9F%91%8B;Full+Stack+Software+Engineer;From+Recife+%F0%9F%87%A7%F0%9F%87%B7+to+Brest+%F0%9F%87%AB%F0%9F%87%B7;Back-end+%7C+APIs+%7C+Docker+%7C+Linux" alt="Typing SVG" />
+  </a>
+</p>
 ---
 
 ### 🧑‍💻 About me
