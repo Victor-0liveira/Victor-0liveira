@@ -68,7 +68,7 @@ struct Victor {
   </a>
 </p>
 
-> 💬 Feel free to reach out about internships, embedded/Linux projects, or just to talk tech.
+> 💬 Feel free to reach out.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:1F6FEB,100:0D1117&height=100&section=footer" width="100%"/>
