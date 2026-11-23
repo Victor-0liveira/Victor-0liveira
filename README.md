@@ -45,7 +45,6 @@ struct Victor {
   <br/>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Victor-0liveira&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Victor-0liveira&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
